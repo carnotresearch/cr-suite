@@ -1,0 +1,9 @@
+[submodule "cr-sparse"]
+	path = cr-sparse
+	url = https://github.com/carnotresearch/cr-sparse
+[submodule "cr-nimble"]
+	path = cr-nimble
+	url = https://github.com/carnotresearch/cr-nimble
+[submodule "cr-biosignals"]
+	path = cr-biosignals
+	url = https://github.com/carnotresearch/cr-biosignals
