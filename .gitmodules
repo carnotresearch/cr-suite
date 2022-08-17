@@ -4,6 +4,6 @@
 [submodule "cr-nimble"]
 	path = cr-nimble
 	url = https://github.com/carnotresearch/cr-nimble
-[submodule "cr-biosignals"]
-	path = cr-biosignals
-	url = https://github.com/carnotresearch/cr-biosignals
+[submodule "cr-wavelets"]
+	path = cr-wavelets
+	url = https://github.com/carnotresearch/cr-wavelets
