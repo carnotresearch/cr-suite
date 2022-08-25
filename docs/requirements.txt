@@ -1,0 +1,4 @@
+jupyter-book
+cr-nimble
+cr-wavelets
+cr-sparse

@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: user_guide
+- file: dev/ch_dev
+  sections:
+  - file: dev/contributors
+
