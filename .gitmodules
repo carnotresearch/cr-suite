@@ -1,9 +1,0 @@
-[submodule "cr-sparse"]
-	path = cr-sparse
-	url = https://github.com/carnotresearch/cr-sparse
-[submodule "cr-nimble"]
-	path = cr-nimble
-	url = https://github.com/carnotresearch/cr-nimble
-[submodule "cr-wavelets"]
-	path = cr-wavelets
-	url = https://github.com/carnotresearch/cr-wavelets
